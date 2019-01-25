@@ -1,4 +1,4 @@
-const link = require('./link')
+const project = require('./project')
 
 const API_PREFIX = '/api'
 
@@ -9,5 +9,5 @@ module.exports = (server) => {
     })
   })
 
-  server.use(`${API_PREFIX}/link`, link)
+  server.use(`${API_PREFIX}/project`, project)
 }

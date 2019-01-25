@@ -1,7 +1,7 @@
 {
-  "name": "node-express-next",
+  "name": "graveyard",
   "version": "1.0.0",
-  "description": "Boilerplate for apps built with Node.js, Express, and Next.js/React",
+  "description": "Graveyard for old GitHub projects and repositories",
   "scripts": {
     "dev": "npx nodemon server/server.js",
     "build": "next build",

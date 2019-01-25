@@ -1,7 +1,7 @@
 const Header = (props) => (
   <div>
-    <h1>Node-Express-Next Boilerplate</h1>
-    <p>Easy start with Node.js, Express, and Next.js</p>
+    <h1>Graveyard</h1>
+    <p>Where old projects die and re-birth themselves!</p>
   </div>
 )
 
